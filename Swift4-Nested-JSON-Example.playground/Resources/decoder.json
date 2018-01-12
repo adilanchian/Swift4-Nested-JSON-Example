@@ -1,0 +1,163 @@
+{
+  "FirstObj" : {
+    "firstSubObj" : {
+      "val1" : "randProp1",
+      "val2" : "randProp2",
+      "val3" : [ 0.00000, 1.11111 ]
+    },
+    "secondSubObj" : {
+      "val1" : "rand",
+      "val2" : "rand2",
+      "val3" : [ 2.22222, 3.333 ]
+    },
+    "thirdSubObj" : {
+      "val1" : "rando1",
+      "val2" : "rando2",
+      "val3" : [ 4.4444, 5.5555]
+    },
+    "fourthSubObj" : {
+      "val1" : "randooommm1",
+      "val2" : "randooommm2",
+      "val3" : [ 6.6666, 7.77777 ]
+    },
+    "fifthSubObj" : {
+      "val1" : "Alec1",
+      "val2" : "Alec2",
+      "val3" : [ 8.88888, 9.99999 ]
+    },
+    "sixthSubObj" : {
+      "val1" : "AALLLEECC1",
+      "val2" : "AALLLEECC2",
+      "val3" : [ 10.10101, 11.1111 ]
+    }
+  },
+  "SecondObj" : {
+      "bigVal" : {
+          "bigSubVal" : {
+              "bigSubValObj" : {
+                  "miniVal" : "MiniVal.ext",
+                  "miniValObj" : {
+                      "tinyValObj1" : {
+                          "tinyContentObj" : {
+                              "tinyOne" : "tinyOne.ext",
+                              "tinyTwo" : "tinyTwo.ext",
+                              "tinyThree" : "tinyThree.ext",
+                              "tinyFour" : "tinyFour.ext"
+                          },
+                          "tinyVal2" : "12.00000"
+                      },
+                      "tinyValObj2" : {
+                          "tinyContentObj" : {
+                              "tinyOne" : "tinyOne.ext",
+                              "tinyTwo" : "tinyTwo.ext",
+                              "tinyThree" : "tinyThree.ext",
+                              "tinyFour" : "tinyFour.ext"
+                          },
+                          "tinyVal2" : "13.00000"
+                      }
+                  }
+              },
+              "bigSubPropObj" : {
+                  "propName" : "Prop",
+                  "bigSubPropObjItems" : {
+                      "propItem1" : {
+                          "propItemObj" : {
+                              "tinyPropValue1" : "tinyOne.ext",
+                              "tinyPropValue2" : "tinyTwo.ext",
+                              "tinyPropValue3" : "tinyThree.ext",
+                              "tinyPropValue4" : "tinyFour.ext"
+                          },
+                          "propNum" : "14.00000"
+                      },
+                      "propItem2" : {
+                          "propItemObj" : {
+                              "tinyPropValue1" : "tinyOne.ext",
+                              "tinyPropValue2" : "tinyTwo.ext",
+                              "tinyPropValue3" : "tinyThree.ext",
+                              "tinyPropValue4" : "tinyFour.ext"
+                          },
+                          "propNum" : "15.0000"
+                      },
+                      "propItem3" : {
+                          "propItemObj" : {
+                              "tinyPropValue1" : "tinyOne.ext",
+                              "tinyPropValue2" : "tinyTwo.ext",
+                              "tinyPropValue3" : "tinyThree.ext",
+                              "tinyPropValue4" : "tinyFour.ext"
+                          },
+                          "propNum" : "16.0000"
+                      },
+                      "propItem4" : {
+                          "propItemObj" : {
+                              "tinyPropValue1" : "tinyOne.ext",
+                              "tinyPropValue2" : "tinyTwo.ext",
+                              "tinyPropValue3" : "tinyThree.ext",
+                              "tinyPropValue4" : "tinyFour.ext"
+                          },
+                          "propNum" : "17.0000"
+                      },
+                      "propItem5" : {
+                          "propItemObj" : {
+                              "tinyPropValue1" : "tinyOne.ext",
+                              "tinyPropValue2" : "tinyTwo.ext",
+                              "tinyPropValue3" : "tinyThree.ext",
+                              "tinyPropValue4" : "tinyFour.ext"
+                          },
+                          "propNum" : "18.0000"
+                      },
+                      "propItem6" : {
+                          "propItemObj" : {
+                              "tinyPropValue1" : "tinyOne.ext",
+                              "tinyPropValue2" : "tinyTwo.ext",
+                              "tinyPropValue3" : "tinyThree.ext",
+                              "tinyPropValue4" : "tinyFour.ext"
+                          },
+                          "propNum" : "19.0000"
+                      },
+                      "propItem7" : {
+                          "propItemObj" : {
+                              "tinyPropValue1" : "tinyOne.ext",
+                              "tinyPropValue2" : "tinyTwo.ext",
+                              "tinyPropValue3" : "tinyThree.ext",
+                              "tinyPropValue4" : "tinyFour.ext"
+                          },
+                          "propNum" : "20.0000"
+                      },
+                  }
+              }
+            }
+        }
+    },
+"ThirdObj" : {
+      "greetingObj1" : {
+          "hi" : "1.02",
+          "bye" : "1.567",
+          "name" : "alec"
+        },
+      "greetingObj2" : {
+          "hi" : "210000",
+          "bye" : "2200000",
+          "name" : "someone"
+      },
+      "greetingObj3" : {
+          "hi" : "4654321",
+          "bye" : "45646212",
+          "name" : "bob"
+      },
+      "greetingObj4" : {
+          "hi" : "489465165",
+          "bye" : "13437",
+          "name" : "jill"
+      },
+      "greetingObj5" : {
+          "hi" : "12343",
+          "bye" : "1234",
+          "name" : "joe"
+      },
+      "greetingObj6" : {
+          "hi" : "345454",
+          "bye" : "234234",
+          "name" : "steve"
+        }
+    }
+}
